@@ -1,4 +1,3 @@
-
 Greetings!
 
 I am a Ph.D. candidate in the Department of Political Science at Boston College, where I specialize in International Relations and U.S. foreign policy. In particular, my research focuses on maritime security with a regional focus on the Asia-Pacific and U.S.-China relations.
