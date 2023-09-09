@@ -16,8 +16,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/ 
 
-#  - title: "Portfolio"
-#    url: /Portfolio/ 
+   title: "Research"
+     url: /Portfolio/ 
 
 #  - title: "Guide"
 #    url: /markdown/
