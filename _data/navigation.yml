@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /files/Inhwan_Oh_CV_230909.pdf    
 
-  - title: "Research"
-    url: /_portfolio/portfolio-1.md 
+  # title: "Research"
+  #  url: /_portfolio/portfolio-1.md 
 
 #  - title: "Talks"
 #    url: /talks/    
