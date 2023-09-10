@@ -4,10 +4,13 @@ main:
   - title: "CV"
     url: /files/Inhwan_Oh_CV_230909.pdf    
 
+  - title: "Research"
+    url: /_portfolio/portfolio-1.md 
+
 #  - title: "Talks"
 #    url: /talks/    
         
-#  - title: "Research"
+#  - title: "publications"
 #    url: /publications/
     
 #  - title: "Teaching"
@@ -15,9 +18,6 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/ 
-
-#   title: "Portfolio"
-#     url: /_portfolio/portfolio-1.md 
 
 #  - title: "Guide"
 #    url: /markdown/
