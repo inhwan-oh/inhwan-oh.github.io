@@ -1,5 +1,5 @@
 ---
-title: "An Interactive Theory of Power Projection: Naval Mobilization, Geographical Expansion, and Alignment Opportunity"
+Dissertation: "An Interactive Theory of Power Projection: Naval Mobilization, Geographical Expansion, and Alignment Opportunity"
 abstract: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 
 ---
