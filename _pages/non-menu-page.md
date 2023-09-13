@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Manuscripts"
+title: "Manuscripts in Revision"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
