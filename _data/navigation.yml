@@ -11,8 +11,8 @@ main:
     url: /non-menu-page/    
         
   - title: "Teaching"
-     url: /teaching/  
-
+    url: /teaching/  
+     
 #  - title: "publications"
 #    url: /publications/  
 
