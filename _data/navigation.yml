@@ -10,11 +10,11 @@ main:
   - title: "Manuscripts"
     url: /non-menu-page/    
         
+   - title: "Teaching"
+     url: /teaching/  
+
 #  - title: "publications"
-#    url: /publications/
-    
-#  - title: "Teaching"
-#    url: /teaching/    
+#    url: /publications/  
 
 #  - title: "Blog Posts"
 #    url: /year-archive/ 
