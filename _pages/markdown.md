@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Teaching experience"
+title: "Teaching experiences"
 author_profile: true
 redirect_from: 
   - /md/
