@@ -27,5 +27,10 @@ redirect_from:
 * Military Strategy (Spring 2014, Spring 2015, Spring 2016)
 * Modern Warfare: The Iraq and Afghanistan Wars (Spring 2015, Spring 2016)
 
+## Seoul National University, Teaching Assistant
+* Seminar in World Politics: Japan’s Modernization (Summer 2012)
+* Seminar in World Politics: The Chinese Empire and Modernization (Winter 2011)
+* Seminar in World Politics: European Empires (Winter 2009)
+
 
 
