@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://inhwan-oh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "inhwan-oh/inhwan-oh.github.io"
-teaser                   : "IMG_9494-min.jpg"
+teaser                   : "ISA--5323_A.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Inhwan Oh"
-  avatar           : "IMG_9494-min.jpg"
+  avatar           : "ISA--5323_A.jpg"
   bio              : "Instructor in Political Science"
   location         : "Chestnut Hill, MA"
   employer         : "Boston College"
   pubmed           :
   googlescholar    : 
-  email            : "inhwan.oh@bc.edu"
+  email            : "inhwan.o@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
