@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 
+## College of William & Mary
+
+* U.S.-China Relations Seminar for Freshmen (Fall 2024)
+* U.S.-China Relations Seminar for Juniors (Fall 2024)
+* Research Methods (Fall 2024)
+
 ## John Quincy Adams Society
 
 * Morgenthau Grand Strategy Seminar: China’s Rise (Instructor, July 2023)
