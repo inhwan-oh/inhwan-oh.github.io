@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## College of William & Mary
+## William & Mary
 
 * U.S.-China Relations Seminar for Freshmen (Fall 2024)
 * U.S.-China Relations Seminar for Juniors (Fall 2024)
