@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Foreign Policy Ideas, Elite Consensus, and Social Expectations: Japan’s Status-Driven Restraint Despite Racial Humiliation from 1921-1936 (under review)
+Japan’s Status-Driven Restraint Despite Racial Humiliation from 1921-1936 (forthcoming, The Journal of American-East Asian Relations)
 ======
 
 According to recent research on the intersection of rising powers and race, a combination of a rising power’s pursuit of status and its encounter with the racial hierarchy at the international level does not bode well, for such moments are assumed to drive a rising power to be more aggressive. But Japan’s continued commitment to the Washington naval system from 1921-1930 even after racially humiliating moments in 1919 and 1924 is inconsistent with this conventional wisdom. Why was Japan willing to concede to the inferior naval ratio despite racial humiliation? I argue that Japan’s orthodox foreign policy idea prioritized its higher civilizational status relative to both the white great powers and the rest of Asia and generated elite consensus among civilian and military leaders on the trade-off between a higher status and decreased military capabilities. Japan’s status-driven restraint lasted until the political-economic consequences of the Showa Depression of 1930-1931 massively disappointed social expectations and brought about the collapse of the orthodox foreign policy idea and the elite consensus. In other words, I argue that the effect of racialized moments on a rising power is not linear but filtered through the dominant foreign policy idea and domestic elite consensus. 
