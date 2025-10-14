@@ -8,10 +8,26 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Japan’s Status-Driven Restraint Despite Racial Humiliation, 1921-1936 (forthcoming, The Journal of American-East Asian Relations)
+Japan’s Status-Driven Restraint Despite Racial Humiliation, 1921-1936, The Journal of American-East Asian Relations, vol. 32, issue. 3 (2025): 239-267
 ======
 
-According to recent research on the intersection of rising powers and race, a combination of a rising power’s pursuit of status and its encounter with the racial hierarchy at the international level does not bode well, for such moments are assumed to drive a rising power to be more aggressive. But Japan’s continued commitment to the Washington naval system from 1921-1930 even after racially humiliating moments in 1919 and 1924 is inconsistent with this conventional wisdom. Why was Japan willing to concede to the inferior naval ratio despite racial humiliation? I argue that Japan’s orthodox foreign policy idea prioritized its higher civilizational status relative to both the white great powers and the rest of Asia and generated elite consensus among civilian and military leaders on the trade-off between a higher status and decreased military capabilities. Japan’s status-driven restraint lasted until the political-economic consequences of the Showa Depression of 1930-1931 massively disappointed social expectations and brought about the collapse of the orthodox foreign policy idea and the elite consensus. In other words, I argue that the effect of racialized moments on a rising power is not linear but filtered through the dominant foreign policy idea and domestic elite consensus. 
+According to recent theories on the intersection of status and race, a combination
+of a rising power’s pursuit of status and its encounter with the racial hierarchy at
+the international level does not bode well. This is the case because one can assume
+that such moments drive a rising power to be more aggressive. Given Japan’s racial
+humiliation associated with the rejection of its racial equality proposal at the Versailles
+Peace Conference in 1919 and the Japanese Exclusion Act of 1924 in the United States,
+why did Japan concede to an inferior ratio in naval size and remain committed to
+the Washington naval system from 1921 to 1930? Why by the early 1930s did Japan
+profoundly overturn its status policy and not earlier? Drawing on critical appraisals
+of the theories that address a rising power’s status and its racial anxiety, this article
+argues that Japan’s orthodox foreign policy idea prioritized its higher civilizational
+status relative to the Western great powers and the rest of East Asia, which generated
+an elite consensus among civilian and military leaders on accepting the trade-off
+between reduced military capabilities and increased status from 1921 to 1930 despite
+racial humiliation. Japan’s status-driven restraint persisted until this elite consensus
+collapsed and the political-economic consequences of the Showa Depression defeated
+social expectations.
 
 Why in the Upper Nile but Not in West Africa? Britain’s Atypical Preventive War Motivation, the Contagion Effect, and the Fashoda Crisis Revisited, 1882–1898 (under review)
 ======
