@@ -29,6 +29,7 @@ racial humiliation. Japan’s status-driven restraint persisted until this elite
 collapsed and the political-economic consequences of the Showa Depression defeated
 social expectations.
 
+
 Why in the Upper Nile but Not in West Africa? Britain’s Atypical Preventive War Motivation, the Contagion Effect, and the Fashoda Crisis Revisited, 1882–1898 (under review)
 ======
 
