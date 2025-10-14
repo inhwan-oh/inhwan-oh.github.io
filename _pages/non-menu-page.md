@@ -27,7 +27,7 @@ an elite consensus among civilian and military leaders on accepting the trade-of
 between reduced military capabilities and increased status from 1921 to 1930 despite
 racial humiliation. Japan’s status-driven restraint persisted until this elite consensus
 collapsed and the political-economic consequences of the Showa Depression defeated
-social expectations. [Link to PDF](inhwan-oh.github.io/files/JAER-article_Oh_2025.pdf/).
+social expectations. [Link to PDF](https://inhwan-oh.github.io/_pages/JAER-article_Oh_2025.pdf/).
 
 
 Why in the Upper Nile but Not in West Africa? Britain’s Atypical Preventive War Motivation, the Contagion Effect, and the Fashoda Crisis Revisited, 1882–1898 (under review)
