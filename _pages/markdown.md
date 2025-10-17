@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+## Seoul National University
+
+* Introduction to International Relations (Fall 2025)
+
 ## William & Mary
 
 * U.S.-China Relations Seminar for Freshmen (Fall 2024)
@@ -33,10 +37,7 @@ redirect_from:
 * Military Strategy (Spring 2014, Spring 2015, Spring 2016)
 * Modern Warfare: The Iraq and Afghanistan Wars (Spring 2015, Spring 2016)
 
-## Seoul National University
-* Seminar in World Politics: Japan’s Modernization (Teaching Assistant, Summer 2012)
-* Seminar in World Politics: The Chinese Empire and Modernization (Teaching Assistant, Winter 2011)
-* Seminar in World Politics: European Empires (Teaching Assistant, Winter 2009)
+
 
 
 
