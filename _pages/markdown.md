@@ -9,6 +9,7 @@ redirect_from:
 
 ## Seoul National University
 
+* Foreign Policy Analysis (Spring 2026)
 * Introduction to International Relations (Fall 2025)
 
 ## William & Mary
