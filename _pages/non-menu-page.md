@@ -21,7 +21,7 @@ Refereed Journal Articles
 
  
 
-"Why in the Upper Nile but Not in West Africa? Britain’s Atypical Preventive War Motivation, the Contagion Effect, and the Fashoda Crisis Revisited, 1882–1898," (under review)
+"Why at Fashoda but Not on the Niger?: Naval Defense Lines, Contagion Expectations, and British Resolve in the Anglo-French Crises of 1898," (R&R, under review)
 
 
 
