@@ -9,6 +9,7 @@ redirect_from:
 
 ## Seoul National University
 
+* Korean Foreign Policy Analysis (Fall 2026)
 * Foreign Policy Analysis (Spring 2026)
 * Introduction to International Relations (Fall 2025)
 
