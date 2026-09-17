@@ -13,7 +13,7 @@ Refereed Journal Articles
 ======
 
 
-"Historical Intersections of Climatic Change and Power Transitions: Ecological Pressure, Differential Adaptability, and the U.S.-China Power Transition in the Anthropocene," with Inho Choi, <i>International Relations of the Asia-Pacific</i>, Volume 26, Issue 3, 2026, lcag009, https://doi.org/10.1093/irap/lcag009
+"Historical Intersections of Climatic Change and Power Transitions: Ecological Pressure, Differential Adaptability, and the U.S.-China Power Transition in the Anthropocene," with Inho Choi, <i>International Relations of the Asia-Pacific</i>, Volume 26, Issue 3, 2026, https://doi.org/10.1093/irap/lcag009
 
 
 
