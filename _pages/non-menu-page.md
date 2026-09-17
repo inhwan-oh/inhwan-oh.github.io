@@ -21,7 +21,7 @@ Refereed Journal Articles
 
  
 
-"Why at Fashoda but Not on the Niger?: Naval Defense Lines, Contagion Expectations, and British Resolve in the Anglo-French Crises of 1898," (R&R, under review)
+"Why at Fashoda but Not on the Niger?: Naval Defense Lines, Contagion Expectations, and British Resolve in the Anglo-French Crises of 1898," (R&R, <i>Cambridge Review of International Affairs</i>)
 
 
 
