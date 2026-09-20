@@ -19,7 +19,7 @@ Refereed Journal Articles
 "Japan's Status-Driven Restraint Despite Racial Humiliation, 1921-1936," <i>The Journal of American-East Asian Relations</i>, vol. 32, issue. 3 (2025): 239-267 [https://doi.org/10.1163/18765610-32030007](https://doi.org/10.1163/18765610-32030007) | [Link to PDF](https://inhwan-oh.github.io/files/JAER-article_Oh_2025.pdf)
  
 
-"Why at Fashoda but Not on the Niger?: Naval Defense Lines, Contagion Expectations, and British Resolve in the Anglo-French Crises of 1898," (R&R, under reviews)
+"Why at Fashoda but Not on the Niger?: Naval Defense Lines, Contagion Expectations, and British Resolve in the Anglo-French Crises of 1898," (R&R, under review)
 
 
 
